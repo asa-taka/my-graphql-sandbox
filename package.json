@@ -13,6 +13,8 @@
   "dependencies": {
     "@types/graphql": "^0.12.4",
     "graphql": "^0.13.1",
+    "graphql-custom-directive": "^0.1.9",
+    "graphql-custom-directives": "^0.2.5",
     "graphql-tools": "^2.21.0"
   }
 }
